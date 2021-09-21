@@ -1,0 +1,16 @@
+channels:
+    - pytorch
+    - conda-forge
+name:
+    dl-image-gpu
+dependencies:
+    - cudatoolkit >=10.2,<11  # choose correct CUDA version for your system
+    - imageio
+    - jupyter
+    - nb_conda
+    - pytorch
+    - scikit-image
+    - scikit-learn
+    - tensorboard
+    - torchvision
+    - tqdm

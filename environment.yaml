@@ -1,0 +1,16 @@
+channels:
+    - pytorch
+    - conda-forge
+name:
+    dl-image
+dependencies:
+    - cpuonly
+    - imageio
+    - jupyter
+    - nb_conda
+    - pytorch
+    - scikit-image
+    - scikit-learn
+    - tensorboard
+    - torchvision
+    - tqdm
