@@ -5,7 +5,7 @@ For this year's deep learning course we will use BAND desktops, cloud based virt
 ## Testing BAND
 
 - Go to [band.embl.de](https://band.embl.de/#/eosc-landingpage) and click `LOGIN`.
-- Use your Google account to log in
+- Use your Google account to log in, see also a [more detailed BAND user guide](https://docs.google.com/document/d/1TZBUsNIciGMH_g4aFj2Lu_upISxh5TV9FBMrvNDWmc8/edit)
 - This will open the `Launch Desktops` page
     - Select a suitable configuration in `Desktop configuration`, see example in the screenshot below.
     - Click `LAUNCH` and then `yes` in the prompt
