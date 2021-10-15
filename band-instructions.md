@@ -5,12 +5,12 @@ For this year's deep learning course we will use BAND desktops, cloud based virt
 ## Testing BAND
 
 - Go to [band.embl.de](https://band.embl.de/#/eosc-landingpage) and click `LOGIN`.
-- Use your Google account to log in, see also a [more detailed BAND user guide](https://docs.google.com/document/d/1TZBUsNIciGMH_g4aFj2Lu_upISxh5TV9FBMrvNDWmc8/edit)
+- Use your Google account to log in. If you login for the first time, you will need to wait a few minutes to obtain a confirmation e-mail. See also a [more detailed BAND user guide](https://docs.google.com/document/d/1TZBUsNIciGMH_g4aFj2Lu_upISxh5TV9FBMrvNDWmc8/edit)
 - This will open the `Launch Desktops` page
     - Select a suitable configuration in `Desktop configuration`, see example in the screenshot below.
     - Click `LAUNCH` and then `yes` in the prompt
     - Click `GO TO DESKTOP` in `Running desktops`
-- This will open the virtual desktop in a new tab
+- This will open the virtual desktop in a new tab.
 - You can now use this desktop to use pre-installed software or install new software in your home directory
 - The home directory is persistent, i.e. everything you create in it will still be there when you launch a new desktop
 - The environment for the webinar exercises is already preinstalled via jupyterLab, you can access it via `Applications->Programming->DL Course`
