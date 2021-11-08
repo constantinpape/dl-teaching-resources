@@ -11,7 +11,7 @@ For this year's deep learning course we will use BAND desktops, cloud based virt
     - Click `LAUNCH` and then `yes` in the prompt
     - Click `GO TO DESKTOP` in `Running desktops`
 - This will open the virtual desktop in a new tab.
-    - Note that for some users starting the first virtual desktop fails with an error. If that happens for you, just terminate the desktop and start a new one; that should fix the issue.  
+    - Note that for some users starting the first virtual desktop fail and display a `CONNECTION ERROR`. If that happens for you, just terminate the desktop and start a new one; that should fix the issue.  
 - You can now use this desktop to use pre-installed software or install new software in your home directory
 - The home directory is persistent, i.e. everything you create in it will still be there when you launch a new desktop
 - The environment for the webinar exercises is already preinstalled via jupyterLab, you can access it via `Applications->Programming->DL Course`
