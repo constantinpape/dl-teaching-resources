@@ -1,6 +1,5 @@
 channels:
     - pytorch
-    - conda-forge
 name:
     dl-image
 dependencies:
@@ -8,9 +7,12 @@ dependencies:
     - imageio
     - jupyter
     - nb_conda
+    - pip
     - pytorch
     - scikit-image
     - scikit-learn
     - tensorboard
     - torchvision
     - tqdm
+    - pip:
+        - cifar2png
