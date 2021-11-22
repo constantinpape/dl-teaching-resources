@@ -1,7 +1,9 @@
 # dl-teaching-resources
 
-Collection of teaching material for deep learning for (biomedical) image analysis
+Collection of teaching material for deep learning for (biomedical) image analysis.
 
+This repository contains a collection of jupyter notebooks with exercises that can be re-used for courses. Currently:
+- `exercises/classification` contains exercises for image classification.
 
 ## Getting Started
 
