@@ -46,3 +46,9 @@ And there are lots of other related materials available online, for example:
 
 ### Pytorch
  * [Building networks from torch primitives](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
+
+
+### Data Augmentation
+ * [Why do we need Data Augmentation?](https://nanonets.com/blog/data-augmentation-how-to-use-deep-learning-when-you-have-limited-data-part-2/)
+ * [Data Augmentation Libraries](https://towardsdatascience.com/data-augmentation-for-deep-learning-4fe21d1a4eb9)
+ * [Data Augmentation Libraries v2](https://neptune.ai/blog/data-augmentation-in-python)
