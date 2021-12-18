@@ -4,6 +4,8 @@ Exercises for Image Classification with pytorch. Contains the following exercise
 - `1_data_preparation`: pytorch dataloader for classification. [Open in colab](https://colab.research.google.com/github/constantinpape/dl-teaching-resources/blob/main/exercises/classification/1_data_preperation.ipynb).
 - `2_logistic_regression`: image classification with a simple logistic regression model. [Open in colab](https://colab.research.google.com/github/constantinpape/dl-teaching-resources/blob/main/exercises/classification/2_logistic_regression.ipynb).
 - `3_multi_layer_perceptron`: image classification with a multi-layer perceptron. [Open in colab](https://colab.research.google.com/github/constantinpape/dl-teaching-resources/blob/main/exercises/classification/3_multi_layer_perceptron.ipynb).
+- `4_cnn`: image classification with a convolutional neural network. [Open in colab](https://colab.research.google.com/github/constantinpape/dl-teaching-resources/blob/main/exercises/classification/4_cnn.ipynb).
+- `5_data_augmentation`: using a CNN with data augmentations. [Open in colab](https://colab.research.google.com/github/constantinpape/dl-teaching-resources/blob/main/exercises/classification/5_data_augmentation.ipynb).
 
 All the exercises use the [CIFAR10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
 
@@ -46,7 +48,6 @@ And there are lots of other related materials available online, for example:
 
 ### Pytorch
  * [Building networks from torch primitives](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
-
 
 ### Data Augmentation
  * [Why do we need Data Augmentation?](https://nanonets.com/blog/data-augmentation-how-to-use-deep-learning-when-you-have-limited-data-part-2/)
